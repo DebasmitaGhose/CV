@@ -7,8 +7,8 @@
 
 ## Education
 
-| Institution                              | Course                                                              | Year      | CGPA    |
-| ---------------------------------------- |:-------------------------------------------------------------------:| ---------:| :-------:
+| **Institution**                          |**Course**                                                           | **Year**  |**CGPA** |
+| ---------------------------------------- |:-------------------------------------------------------------------:| ---------:| :------:|
 | University of Massachusetts, Amherst     | Master of Science - Computer Science                                | 2017-2019 | 3.76/4  |
 | Manipal Insititute of Technology, India  | Bachelor of Technology - Electronics & Communication Engineering    | 2013-2017 | 9.07/10 |
 
