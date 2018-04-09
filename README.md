@@ -111,6 +111,22 @@ Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framewo
 -	Designed and built a robotic arm to pick up, turn and drop cargo blocks.
 -	This project was a part of the e-Yantra National Robotics Competition conducted by Indian Institute of Technology, Bombay. 
 
+## Trainings and Workshops
+
+- Vocational Training in Basic Techniques of Television Production and Transmission at Doordarshan Kendra, Patna  *July, 2015*
+- Summer Training with Robosapiens Technologies in association with Indian Institute of Technology, Guwahati on Quadcopters and UAVs *June-July, 2015*
+- Industrial Training on VLSI, VHDL and PCB Design with Hewlett Packard Education Services *May-June, 2015*
+- Short Term Course on FPGA Based System Design conducted by Department of Electrical Engineering, Indian Institute of Technology, Patna *May, 2015*
+- Workshop on Rapid Prototyping using Printed Circuits conducted by Student Council MIT and Robotics and Circuits Club, MIT Manipal *March, 2015*
+- Workshop on Android Application Development conducted by School of Information Sciences, Manipal University *March, 2015*
+- Training in Microcontrollers (AVR) at Integrated Info Tech, Patna, Bihar *December, 2014-January,2015*
+- Training in Image Processing and Robotics using MATLAB at Integrated Info Tech, Patna, Bihar *December, 2014-January,2015*
+-Training in Fundamentals of Remote Sensing and GIS Technologies at FMISC, Patna, a World Bank Aided Project under Water Resources Department, Government of Bihar *July, 2014*
+- Training in C# at Integrated Info Tech, Patna, Bihar *June-July, 2014*
+- Workshop on Arduino microcontroller conducted by Institute of Engineers (Electronics and Communication Engineering), Manipal Chapter *September, 2014*
+- Training in ASP.Net at WebCom Technologies USA, Patna, Bihar *December, 2013-January, 2014*
+-Training in C++ Programming at WebCom Technologies USA, Patna, Bihar *December, 2013-January, 2014*
+
 
 
 
