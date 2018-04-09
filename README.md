@@ -56,7 +56,7 @@
 - **Winner**:  INK Makers – Make-a-Thon, 2016 an innovation challenge conducted by INK Talks for building a Braille Reader among 20 teams
 - **Best Research Poster** – Technical at Indo German Convention of Lindau Alumni, Kasturba Medical College, Manipal among 40 teams
 -	**Theme Winner**: Internet of Things and Intelligent Systems at Intel India Embedded Challenge – 2014 for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 2000 teams
--	**Best Project in Winter** Project Competition  2014 -2015 conducted by Institute of Engineers, Electronics and Communication Engineering (Manipal Chapter) for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 50 teams
+-	**Best Project** in Winter Project Competition  2014 -2015 conducted by Institute of Engineers, Electronics and Communication Engineering (Manipal Chapter) for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 50 teams
 
 ## Publications
 
