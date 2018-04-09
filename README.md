@@ -33,21 +33,17 @@
 ## Internships
 
 - **Siemens AG, Munich, Germany**
-
+    
     Summer Research Intern
     
     *June, 2018 - August, 2018*
-
 - **Nanyang Technological University, Singapore**
     
     Research Assistant, School of Computer Science and Engineering
     
     *January, 2017 – June, 2017*
-    
-
 - **Techniche Universitat Dresden, Germany**
-      
-      
+  
   Visiting Researcher, School of Vehicle Mechatronics
   
   *May, 2016 – August, 2016*
