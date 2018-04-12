@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+# [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [Projects](https://debasmitaghose.github.io/Projects/)
+
 ## Profile
 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens AG, Munich, Germany (Summer, 2018)
 - Selected for a research internship at Nanyang Technological University, Singapore through the NTU India Connect Program (Spring, 2017)
