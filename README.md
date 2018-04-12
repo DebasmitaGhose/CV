@@ -82,19 +82,19 @@ Comparing the performance of Fully Convolutional Networks, U-Net and Dilated Con
 
 ### Past Projects
 
-#### AUTOMATED SPORTS VIDEO HIGHLIGHT GENERATION
+#### [AUTOMATED SPORTS VIDEO HIGHLIGHT GENERATION](https://github.com/DebasmitaGhose/Highlight-Detection-in-Sports-Videos-using-Audience-Reaction)
 Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framework to analyze the excitement levels of audience watching a game to classify parts of the video into “Highlight” and “Standard Gameplay” with an accuracy of about 70%
 
-#### DETERMINATION OF TRANSPORTATION MODES USING MOBILE PHONES
+#### [DETERMINATION OF TRANSPORTATION MODES USING MOBILE PHONES](https://github.com/DebasmitaGhose/TransportModeDetection)
 -	Implemented various methods for developing a system that can detect the mode of transportation used by a person using the time sequenced location data retrieved from his cellphone, while he takes multimodal trips using various machine learning techniques with an accuracy of about 90%. 
 -	This project was implemented during a 5 month Research Assistantship at Hardware and Embedded Systems Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore. 
 
-#### DRONE TO ASSIST THE PARKING OF A CAR
+#### [DRONE TO ASSIST THE PARKING OF A CAR](https://github.com/DebasmitaGhose/Projects/blob/master/Final%20Report%20Drone%20(Recovered).pdf)
 -	Developed a semi-autonomous octocopter to assist a driver in finding a parking spot. 
 -	Designed an octocopter which was capable of stable flying and taking off and landing autonomously. 
 -	Done as a part of an internship at the School of Vehicle Mechatronics, Techniche Universitat, Dresden, Germany.
 
-#### ROAD ACCIDENT PREVENTION SYSTEM
+#### [ROAD ACCIDENT PREVENTION SYSTEM](https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf)
 -	Designed a system to detect driver drowsiness, check if the driver is under the influence of alcohol, if he has fastened the seat belt and if he is tailgating someone or being tailgated by someone. 
 -	Developed a system to alert the driver by means of an audio stimulus, if found to violate traffic rules and if needed, send the details of the car to the nearest police station for further action. 
 -	Our team of 3 was selected among the top 10 teams of Atmel Embedded Design Challenge 2016 for this project. 
