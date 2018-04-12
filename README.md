@@ -60,9 +60,9 @@
 
 ## Publications
 
--	*Cost Effective Road Accident Prevention System*, Dr. Mohan Kumar J, Rishabh Mahajan, Deeksha Prabhu, Debasmita Ghose, IEEE International Conference for Contemporary Computing and Informatics, Noida, India, 2016
--	*Safety Mechanism in Treadmills using a Heart Rate Sensor*, Debasmita Ghose, Vandana Prasad, Ankita Singh, International Research Journal of Engineering and Technology, Volume 3, Issue 5, May 2016
--	*A Modern Approach to Energy Generation and Conservation using Rain Water*, Rishabh Mahajan, Debasmita Ghose, Deeksha Prabhu, 8th National Conference on Advances in Energy Conversion Technologies, 2016 conducted by Manipal Institute of Technology, India (presentation) 
+-	[*Cost Effective Road Accident Prevention System*](https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf), Dr. Mohan Kumar J, Rishabh Mahajan, Deeksha Prabhu, Debasmita Ghose, IEEE International Conference for Contemporary Computing and Informatics, Noida, India, 2016
+-	[*Safety Mechanism in Treadmills using a Heart Rate Sensor*](https://github.com/DebasmitaGhose/Projects/blob/master/IRJET-V3I552.pdf), Debasmita Ghose, Vandana Prasad, Ankita Singh, International Research Journal of Engineering and Technology, Volume 3, Issue 5, May 2016
+-	[*A Modern Approach to Energy Generation and Conservation using Rain Water*](https://github.com/DebasmitaGhose/Projects/blob/master/paper%20on%20renewable%20resources%20final.pdf), Rishabh Mahajan, Debasmita Ghose, Deeksha Prabhu, 8th National Conference on Advances in Energy Conversion Technologies, 2016 conducted by Manipal Institute of Technology, India (presentation) 
 -	*Planning a Smart City in an Indian Context: A Case Study of Patna U.A., Bihar*, Debasmita Ghose, Dr. Debjani Sarkar Ghose, National Seminar on Development and Management of Urban Infrastructure in India: Growth, Constraints and Prospects, 2016 at Patna Women’s College, Patna, India
 
 ## Projects
