@@ -8,37 +8,8 @@
 - Selected for a summer internship at Techniche Universitat, Dresden, Germany (Summer, 2016)
 - Received the Best Student Award for the Batch of 2013-2017, from the Department of Electronics and Communication Engineering, Manipal Institute of Technology, India
 
-## Education
-
-| **Institution**                          |**Course**                                                           | **Year**  |
-| ---------------------------------------- |:-------------------------------------------------------------------:| :--------:| 
-| University of Massachusetts, Amherst     | Master of Science - Computer Science                                | 2017-2019 |
-| Manipal Insititute of Technology, India  | Bachelor of Technology - Electronics & Communication Engineering    | 2013-2017 | 
-
-## Relevant Courses
-
-### University of Massachusetts, Amherst
-- Robotics
-- Computer Vision
-- Intelligent Visual Computing
-- Machine Learning
-- Modern Computer Architecture
-- Mobile and Ubiquitous Computing
-
-### Manipal Institute of Technology, India
-- Embedded System Design
-- Advanced Embedded System Design
-- Control Systems
-- Information Theory and Coding
-- Building Automation Systems
-
 ## Internships
 
-- **Siemens AG, Munich, Germany**
-    
-    Summer Research Intern
-    
-    *June, 2018 - August, 2018*
 - **Nanyang Technological University, Singapore**
     
     Research Assistant, School of Computer Science and Engineering
@@ -49,16 +20,6 @@
   Visiting Researcher, School of Vehicle Mechatronics
   
   *May, 2016 – August, 2016*
-
-
-## Achievements
-
-- **DAAD RISE Professional Scholarship**: Received the DAAD RISE Professional Scholarship, 2018 from the German Academic Exchange Service for a Summer Internship at Siemens AG, Munich. 
-- **Best Outgoing Student**: Conferred with the Chaya Devi Award for the Best Outgoing Student of the 2013-2017 batch of 240 students, by the Department of Electronics and Communication Engineering, Manipal Institute of Technology, Manipal
-- **Winner**:  INK Makers – Make-a-Thon, 2016 an innovation challenge conducted by INK Talks for building a Braille Reader among 20 teams
-- **Best Research Poster** – Technical at Indo German Convention of Lindau Alumni, Kasturba Medical College, Manipal among 40 teams
--	**Theme Winner**: Internet of Things and Intelligent Systems at Intel India Embedded Challenge – 2014 for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 2000 teams
--	**Best Project** in Winter Project Competition  2014 -2015 conducted by Institute of Engineers, Electronics and Communication Engineering (Manipal Chapter) for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 50 teams
 
 ## Publications
 
@@ -108,6 +69,41 @@ Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framewo
 -	Programmed the FireBird V Research Platform to act as a cargo aligning robot, which could traverse a grid of points in a path autonomously avoiding obstacles.
 -	Designed and built a robotic arm to pick up, turn and drop cargo blocks.
 -	This project was a part of the e-Yantra National Robotics Competition conducted by Indian Institute of Technology, Bombay. 
+
+## Achievements
+
+- **DAAD RISE Professional Scholarship**: Received the DAAD RISE Professional Scholarship, 2018 from the German Academic Exchange Service for a Summer Internship at Siemens AG, Munich. 
+- **Best Outgoing Student**: Conferred with the Chaya Devi Award for the Best Outgoing Student of the 2013-2017 batch of 240 students, by the Department of Electronics and Communication Engineering, Manipal Institute of Technology, Manipal
+- **Winner**:  INK Makers – Make-a-Thon, 2016 an innovation challenge conducted by INK Talks for building a Braille Reader among 20 teams
+- **Best Research Poster** – Technical at Indo German Convention of Lindau Alumni, Kasturba Medical College, Manipal among 40 teams
+-	**Theme Winner**: Internet of Things and Intelligent Systems at Intel India Embedded Challenge – 2014 for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 2000 teams
+-	**Best Project** in Winter Project Competition  2014 -2015 conducted by Institute of Engineers, Electronics and Communication Engineering (Manipal Chapter) for building Amphibious Rescue and Surveillance Robot – a Modern Hovercraft among 50 teams
+
+
+## Education
+
+| **Institution**                          |**Course**                                                           | **Year**  |
+| ---------------------------------------- |:-------------------------------------------------------------------:| :--------:| 
+| University of Massachusetts, Amherst     | Master of Science - Computer Science                                | 2017-2019 |
+| Manipal Insititute of Technology, India  | Bachelor of Technology - Electronics & Communication Engineering    | 2013-2017 | 
+
+## Relevant Courses
+
+### University of Massachusetts, Amherst
+- Robotics
+- Computer Vision
+- Intelligent Visual Computing
+- Machine Learning
+- Modern Computer Architecture
+- Mobile and Ubiquitous Computing
+
+### Manipal Institute of Technology, India
+- Embedded System Design
+- Advanced Embedded System Design
+- Control Systems
+- Information Theory and Coding
+- Building Automation Systems
+
 
 ## Trainings and Workshops
 
