@@ -41,7 +41,7 @@ own data, but we plan to implement a multi class classifier which can be trained
 dataset and tested on a different dataset.
 
 #### SEMANTIC SEGMENTATION OF IMAGES
-Comparing the performance of Fully Convolutional Networks, U-Net and Dilated Convolutions for pixel by pixel labeling of images from the Pascal VOC-2012 dataset. 
+Comparing the performance of Fully Convolutional Networks, U-Net, Dilated Convolutions and DenseNets for pixel by pixel labeling of images from the Pascal VOC-2012 dataset. 
 
 ### Past Projects
 
