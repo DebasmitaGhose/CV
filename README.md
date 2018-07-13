@@ -12,22 +12,17 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 
 ## Internships
 
-- **Siemens Corporate Technology, Munich, Germany**
-    
-    Robotics Research Intern
-    
+- **Siemens Corporate Technology, Munich, Germany**  
+    Robotics Research Intern  
     *June, 2018 - Present*
 
-- **Nanyang Technological University, Singapore**
-    
-    Research Assistant, School of Computer Science and Engineering
-    
+- **Nanyang Technological University, Singapore**  
+    Research Assistant, School of Computer Science and Engineering  
     *January, 2017 – June, 2017*
-- **Techniche Universitat Dresden, Germany**
-  
-  Visiting Researcher, School of Vehicle Mechatronics
-  
-  *May, 2016 – August, 2016*
+    
+- **Techniche Universitat Dresden, Germany** 
+    Visiting Researcher, School of Vehicle Mechatronics  
+    *May, 2016 – August, 2016*
 
 ## Publications
 
