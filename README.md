@@ -2,7 +2,7 @@
 
 # [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [Projects](https://debasmitaghose.github.io/Projects/)
 
-The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/CV%20-%20Debasmita%20Ghose%20-%20Companies.pdf). A detailed description of my activities is given below:
+The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/curriculum-vitae.pdf). A detailed description of my activities is given below:
 
 ## Profile
 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens CT, Munich, Germany (Summer, 2018)
