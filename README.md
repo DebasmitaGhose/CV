@@ -12,8 +12,8 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 
 ## Experience
 
-- **Laboratory of Perceptual Robotics, University of Massachusetts, Amherst**  
-    Research Assistant  
+- **University of Massachusetts, Amherst**    
+    Research Assistant, Laboratory of Perceptual Robotics 
     *September, 2018 - Present*
 
 - **Siemens Corporate Technology, Munich, Germany**  
@@ -24,7 +24,7 @@ The summarized version of my Resume is available [here](https://github.com/Debas
     Research Assistant, School of Computer Science and Engineering  
     *January, 2017 – June, 2017*
     
-- **Techniche Universitat Dresden, Germany** 
+- **Techniche Universitat Dresden, Germany**  
     Visiting Researcher, School of Vehicle Mechatronics  
     *May, 2016 – August, 2016*
 
