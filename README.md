@@ -12,7 +12,7 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 
 ## Experience
 
-- **Laboratory of Perceptual Robotics, University of Massachusetts, Amherst** 
+- **Laboratory of Perceptual Robotics, University of Massachusetts, Amherst**  
     Research Assistant  
     *September, 2018 - Present*
 
