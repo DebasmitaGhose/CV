@@ -10,11 +10,15 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 - Selected for a summer internship at Techniche Universitat, Dresden, Germany (Summer, 2016)
 - Received the Best Student Award for the Batch of 2013-2017, from the Department of Electronics and Communication Engineering, Manipal Institute of Technology, India
 
-## Internships
+## Experience
+
+- **Laboratory of Perceptual Robotics, University of Massachusetts, Amherst**
+    Research Assistant
+    *September, 2018 - Present*
 
 - **Siemens Corporate Technology, Munich, Germany**  
     Robotics Research Intern  
-    *June, 2018 - Present*
+    *June, 2018 - August, 2018*
 
 - **Nanyang Technological University, Singapore**  
     Research Assistant, School of Computer Science and Engineering  
