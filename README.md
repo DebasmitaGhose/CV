@@ -39,6 +39,13 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 
 ### Ongoing Projects
 
+#### INFLUENZA DETECTION FROM THERMAL IMAGES
+- Detecting Influenza outbreak using data from thermal images and sound sensors
+- Performing 2D image segmentation, on a public thermal imaging dataset to detect people in the scene
+- Remapping the segmented images to the original image to determine the temperature of the subjects skin
+
+### Past Projects
+
 #### TELEKINESIS - Multi-User Multi-Class Classification of EEG Data
 Generalizing the use of EEG data for various multi user multi class classification
 tasks. Currently most EEG applications involve training and testing the classifier on the subject’s
@@ -47,8 +54,6 @@ dataset and tested on a different dataset.
 
 #### SEMANTIC SEGMENTATION OF IMAGES
 Comparing the performance of Fully Convolutional Networks, U-Net, Dilated Convolutions and DenseNets for pixel by pixel labeling of images from the Pascal VOC-2012 dataset. 
-
-### Past Projects
 
 #### [AUTOMATED SPORTS VIDEO HIGHLIGHT GENERATION](https://github.com/DebasmitaGhose/Highlight-Detection-in-Sports-Videos-using-Audience-Reaction)
 Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framework to analyze the excitement levels of audience watching a game to classify parts of the video into “Highlight” and “Standard Gameplay” with an accuracy of about 70%
