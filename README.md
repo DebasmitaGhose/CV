@@ -13,7 +13,11 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 ## Experience
 
 - **University of Massachusetts, Amherst**    
-    Research Assistant, Laboratory of Perceptual Robotics  
+    Research Assistant, Information Fusion Laboratory (PI: Madalina Fiterau)  
+    *September, 2018 - Present*
+
+- **University of Massachusetts, Amherst**    
+    Research Assistant, Laboratory of Perceptual Robotics (PI: Rod Grupen)
     *September, 2018 - Present*
 
 - **Siemens Corporate Technology, Munich, Germany**  
