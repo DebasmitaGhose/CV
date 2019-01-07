@@ -2,7 +2,7 @@
 
 ## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [Projects](https://debasmitaghose.github.io/Projects/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
-The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae_Debasmita.pdf). A detailed description of my activities is given below:
+The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae___Debasmita___Grad_School.pdf). A detailed description of my activities is given below:
 
 ## Experience
 
