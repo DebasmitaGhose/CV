@@ -4,12 +4,6 @@
 
 The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae_Debasmita.pdf). A detailed description of my activities is given below:
 
-## Profile
-- Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens CT, Munich, Germany (Summer, 2018)
-- Selected for a research internship at Nanyang Technological University, Singapore through the NTU India Connect Program (Spring, 2017)
-- Selected for a summer internship at Techniche Universitat, Dresden, Germany (Summer, 2016)
-- Received the Best Student Award for the Batch of 2013-2017, from the Department of Electronics and Communication Engineering, Manipal Institute of Technology, India
-
 ## Experience
 
 - **University of Massachusetts, Amherst**    
