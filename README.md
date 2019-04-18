@@ -32,6 +32,11 @@ A detailed description of my activities is given below:
 
 ## Publications
 
+#### Graduate
+
+- [*Pedestrian Detection from Thermal Images using Saliency Maps*](https://arxiv.org/abs/1904.06859?context=cs) Debasmita Ghose*, Shasvat Desai*, Sneha Bhattacharya*, Deep Chakraborty*, Madalina Fiterau, Tauhidur Rahman, IEEE Workshop on Perception Beyond the Visible Spectrum, Computer Vision and Pattern Recognition(CVPR), Long Beach, California, USA, 2019
+
+#### Undergraduate
 -	[*Cost Effective Road Accident Prevention System*](https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf), Dr. Mohan Kumar J, Rishabh Mahajan, Deeksha Prabhu, Debasmita Ghose, IEEE International Conference for Contemporary Computing and Informatics, Noida, India, 2016
 -	[*Safety Mechanism in Treadmills using a Heart Rate Sensor*](https://github.com/DebasmitaGhose/Projects/blob/master/IRJET-V3I552.pdf), Debasmita Ghose, Vandana Prasad, Ankita Singh, International Research Journal of Engineering and Technology, Volume 3, Issue 5, May 2016
 -	[*A Modern Approach to Energy Generation and Conservation using Rain Water*](https://github.com/DebasmitaGhose/Projects/blob/master/paper%20on%20renewable%20resources%20final.pdf), Rishabh Mahajan, Debasmita Ghose, Deeksha Prabhu, 8th National Conference on Advances in Energy Conversion Technologies, 2016 conducted by Manipal Institute of Technology, India (presentation) 
@@ -115,6 +120,9 @@ Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framewo
 - Machine Learning
 - Modern Computer Architecture
 - Mobile and Ubiquitous Computing
+- Advanced Algorithms
+- Reiforcement Learning (audit)
+- Probabilistic Graphical Models (audit)
 
 ### Manipal Institute of Technology, India
 - Embedded System Design
