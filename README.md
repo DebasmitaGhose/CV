@@ -2,7 +2,9 @@
 
 ## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [Projects](https://debasmitaghose.github.io/Projects/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
-The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae___Debasmita___Grad_School.pdf). A detailed description of my activities is given below:
+The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae___Debasmita___Grad_School.pdf).  
+Here is a link to my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=cgF857gAAAAJ)  
+A detailed description of my activities is given below:
 
 ## Experience
 
@@ -39,12 +41,17 @@ The summarized version of my Resume is available [here](https://github.com/Debas
 
 ### Ongoing Projects
 
-#### INFLUENZA DETECTION FROM THERMAL IMAGES
-- Detecting Influenza outbreak using data from thermal images and sound sensors
-- Performing 2D image segmentation, on a public thermal imaging dataset to detect people in the scene
-- Remapping the segmented images to the original image to determine the temperature of the subjects skin
+#### A DEEP LEARNING METHOD FOR REDUCING FALSE POSITIVES IN LOAD CELL READINGS FOR GRASPING
+Learning a model that estimates the effect of gravitational and inertial loads on a 6-axis force-torque sensor mounted on a robot, while the robot's arm is in air. 
+
+#### VITAL SIGN ESTIMATION DURING SLEEP FROM ULTRA-WIDE BAND RADAR
+Building a model to extract breathing rate and heart rate from multiple ultra-wide band radars, placed around a person sleeping in different postures. 
 
 ### Past Projects
+
+#### [PEDESTRIAN DETECTION IN THERMAL IMAGES USING SALIENCY MAPS](https://arxiv.org/abs/1904.06859?context=cs)
+- Trained a Faster R-CNN network to detect pedestrians from thermal images from the KAIST Multispectral Pedestrian Dataset
+- Used static and deep saliency networks (PiCA-Net and R3-Net) to preprocess thermal images in order to draw attention of the Faster R-CNN detector towards pedestrians in the scene and achieved a significant improvement in performance over our baselines. 
 
 #### TELEKINESIS - Multi-User Multi-Class Classification of EEG Data
 Generalizing the use of EEG data for various multi user multi class classification
