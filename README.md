@@ -8,7 +8,7 @@ A detailed description of my activities is given below:
 
 ## Experience
 
- - - **Yale University**    
+ - **Yale University**    
     Research Assistant, Yale Social Robotics Lab  
     (PI: Brian Scassellati)      
     *September, 2019 - Present*
