@@ -8,15 +8,21 @@ A detailed description of my activities is given below:
 
 ## Experience
 
+ - - **Yale University**    
+    Research Assistant, Yale Social Robotics Lab  
+    (PI: Brian Scassellati)      
+    *September, 2019 - Present*
+
+
 - **University of Massachusetts, Amherst**    
     Research Assistant, Information Fusion Laboratory  
     (PI: Madalina Fiterau)      
-    *September, 2018 - Present*
+    *September, 2018 - August, 2019*
 
 - **University of Massachusetts, Amherst**    
     Research Assistant, Laboratory of Perceptual Robotics  
     (PI: Rod Grupen)    
-    *September, 2018 - Present*
+    *September, 2018 - August, 2019*
 
 - **Siemens Corporate Technology, Munich, Germany**  
     Robotics Research Intern  
@@ -46,13 +52,17 @@ A detailed description of my activities is given below:
 
 ### Ongoing Projects
 
+#### SHARED AUTONOMY BETWEEN HUMANS AND ROBOTS FOR THE RECYCLING SORING INDUSTRY
+More details coming soon
+
+### Past Projects
+
+
 #### A DEEP LEARNING METHOD FOR REDUCING FALSE POSITIVES IN LOAD CELL READINGS FOR GRASPING
 Learning a model that estimates the effect of gravitational and inertial loads on a 6-axis force-torque sensor mounted on a robot, while the robot's arm is in air. 
 
 #### VITAL SIGN ESTIMATION DURING SLEEP FROM ULTRA-WIDE BAND RADAR
 Building a model to extract breathing rate and heart rate from multiple ultra-wide band radars, placed around a person sleeping in different postures. 
-
-### Past Projects
 
 #### [PEDESTRIAN DETECTION IN THERMAL IMAGES USING SALIENCY MAPS](https://arxiv.org/abs/1904.06859?context=cs)
 - Trained a Faster R-CNN network to detect pedestrians from thermal images from the KAIST Multispectral Pedestrian Dataset
@@ -108,6 +118,8 @@ Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framewo
 
 | **Institution**                          |**Course**                                                           | **Year**  |
 | ---------------------------------------- |:-------------------------------------------------------------------:| :--------:| 
+| Yale University                          | Ph.D. - Computer Science                                            | 2019 - 2025
+|
 | University of Massachusetts, Amherst     | Master of Science - Computer Science                                | 2017-2019 |
 | Manipal Insititute of Technology, India  | Bachelor of Technology - Electronics & Communication Engineering    | 2013-2017 | 
 
@@ -123,6 +135,9 @@ Implemented a 3D Convolutional Neural Network using the Keras/TensorFlow framewo
 - Advanced Algorithms
 - Reiforcement Learning (audit)
 - Probabilistic Graphical Models (audit)
+- Database Systems
+- Building Interactive Machines
+- Intelligent Robotics
 
 ### Manipal Institute of Technology, India
 - Embedded System Design
