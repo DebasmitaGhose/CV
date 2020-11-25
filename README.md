@@ -2,7 +2,7 @@
 
 ## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [Projects](https://debasmitaghose.github.io/Projects/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
-The summarized version of my Resume is available [here](https://github.com/DebasmitaGhose/CV/blob/master/Curriculum_Vitae___Debasmita___Yale.pdf).  
+The summarized version of my Resume is available [here](https://drive.google.com/file/d/1X22wBmmyDSrHOh8Jdq-VByocMy1Si26d/view?usp=sharing).  
 Here is a link to my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=cgF857gAAAAJ)  
 A detailed description of my activities is given below:
 
